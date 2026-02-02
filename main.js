@@ -1,4 +1,4 @@
-import app from "./modules/app.js";
+ import app from "./app.js";
 import serverline from "serverline";
 import fs from "fs";
 import https from "https";
